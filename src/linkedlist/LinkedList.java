@@ -76,7 +76,43 @@ public class LinkedList {
 
   public static ListNode delete(ListNode head , int k){
     // TODO : Please implement this method
-    return head ; // change this line accordingly
+
+    if(head == null){
+
+      return head;
+    }
+
+    if(k<=0 || k>length(head)+1){
+      System.out.println(k +" is invalid position");
+      return head ;
+    }
+
+    if(head==null && k >1){
+      return head ;
+    }
+
+    if(k==1) {
+
+      head = head.getNext();
+      return head;
+    }
+    else{
+
+      ListNode temp = head ;
+      int index = 1 ;
+
+      while(index < k-1){
+        temp = temp.getNext();
+        index++ ;
+      }
+
+      //ListNode previous = temp;
+
+      temp.setNext(temp.getNext().getNext());
+
+      return head;
+    }
+
   }
 
   public static void main(String[] args) {
@@ -98,7 +134,9 @@ public class LinkedList {
 
     traverse(head);
 
+    head = delete(head, 4); // 5 7 2 9
 
+    traverse(head);
   }
 }
 

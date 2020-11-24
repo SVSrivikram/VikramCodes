@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3fd59a57-76dc-487b-82e2-6da41dfe9e4f" name="Default Changelist" comment="" />
+    <list default="true" id="3fd59a57-76dc-487b-82e2-6da41dfe9e4f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Vikram/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Vikram/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Vikram/MyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Vikram/MyLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Vikram/TestLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Vikram/TestLL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Vikram/linkedlist/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Vikram/linkedlist/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Vikram/linkedlist/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Vikram/linkedlist/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedlist/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedlist/LinkedList.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +30,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -33,17 +46,26 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
     <property name="show.unlinked.gradle.project.popup" value="false" />
   </component>
   <component name="RunManager" selected="Application.LinkedList">
-    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="LinkedList" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="linkedlist.LinkedList" />
       <module name="Vikram" />
       <extension name="coverage">
@@ -56,19 +78,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="TestLL" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestLL" />
       <module name="Vikram" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
+    <list>
+      <item itemvalue="Application.LinkedList" />
+      <item itemvalue="Application.TestLL" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
       <list>
-        <item itemvalue="Application.LinkedList" />
-        <item itemvalue="Application.TestLL" />
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
-    </recent_temporary>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -85,6 +117,8 @@
       <workItem from="1605812208221" duration="588000" />
       <workItem from="1606109943936" duration="586000" />
       <workItem from="1606161625675" duration="1929000" />
+      <workItem from="1606217827624" duration="3162000" />
+      <workItem from="1606233388674" duration="1581000" />
     </task>
     <servers>
       <JIRA url="https://jira01.corp.linkedin.com:8443">
@@ -98,30 +132,55 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="440" y="190" key="#Project_Structure" timestamp="1605604255859">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="492" y="100" key="#LinkedList" timestamp="1606233325949">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="492" y="100" key="#LinkedList/0.0.1536.824@0.0.1536.824" timestamp="1606233325949" />
+    <state x="402" y="142" key="#Project_Structure" timestamp="1606217846130">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="402" y="142" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1606217846130" />
     <state x="440" y="190" key="#Project_Structure/0.0.1680.1050@0.0.1680.1050" timestamp="1605604255859" />
+    <state x="361" y="71" key="#Servers" timestamp="1606233373835">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Servers/0.0.1536.824@0.0.1536.824" timestamp="1606233373835" />
+    <state x="234" y="81" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606218276739">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="234" y="81" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1606218276739" />
     <state x="653" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1606215309039">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="653" y="248" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1606215309039" />
-    <state width="1636" height="288" key="GridCell.Tab.0.bottom" timestamp="1606216977919">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="390" y="0" key="CommitChangelistDialog2" timestamp="1606235152537">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="390" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1606235152537" />
+    <state width="1493" height="190" key="GridCell.Tab.0.bottom" timestamp="1606235152572">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="190" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606235152572" />
     <state width="1636" height="288" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1606216977919" />
-    <state width="1636" height="288" key="GridCell.Tab.0.center" timestamp="1606216977917">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1493" height="190" key="GridCell.Tab.0.center" timestamp="1606235152572">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1493" height="190" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606235152572" />
     <state width="1636" height="288" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1606216977917" />
-    <state width="1636" height="288" key="GridCell.Tab.0.left" timestamp="1606216977916">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1493" height="190" key="GridCell.Tab.0.left" timestamp="1606235152572">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1493" height="190" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606235152572" />
     <state width="1636" height="288" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1606216977916" />
-    <state width="1636" height="288" key="GridCell.Tab.0.right" timestamp="1606216977918">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1493" height="190" key="GridCell.Tab.0.right" timestamp="1606235152572">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1493" height="190" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606235152572" />
     <state width="1636" height="288" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1606216977918" />
+    <state x="260" y="0" key="SettingsEditor" timestamp="1606218290568">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="260" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1606218290568" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1606216363258">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
