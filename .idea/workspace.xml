@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3fd59a57-76dc-487b-82e2-6da41dfe9e4f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Vikram/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Vikram/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Vikram/MyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Vikram/MyLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Vikram/TestLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Vikram/TestLL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Vikram/linkedlist/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Vikram/linkedlist/LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Vikram/linkedlist/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Vikram/linkedlist/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linkedlist/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedlist/LinkedList.java" afterDir="false" />
-    </list>
+    <list default="true" id="3fd59a57-76dc-487b-82e2-6da41dfe9e4f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,8 +108,16 @@
       <workItem from="1606109943936" duration="586000" />
       <workItem from="1606161625675" duration="1929000" />
       <workItem from="1606217827624" duration="3162000" />
-      <workItem from="1606233388674" duration="1581000" />
+      <workItem from="1606233388674" duration="1955000" />
     </task>
+    <task id="LOCAL-00001" summary="Added Delete method for linklist">
+      <created>1606235192211</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606235192211</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers>
       <JIRA url="https://jira01.corp.linkedin.com:8443">
         <option name="apiType" value="REST_2_0" />
@@ -130,6 +128,21 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Delete method for linklist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Delete method for linklist" />
   </component>
   <component name="WindowStateProjectService">
     <state x="492" y="100" key="#LinkedList" timestamp="1606233325949">
@@ -153,10 +166,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="653" y="248" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1606215309039" />
-    <state x="390" y="0" key="CommitChangelistDialog2" timestamp="1606235152537">
+    <state x="390" y="0" key="CommitChangelistDialog2" timestamp="1606235191586">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="390" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1606235152537" />
+    <state x="390" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1606235191586" />
     <state width="1493" height="190" key="GridCell.Tab.0.bottom" timestamp="1606235152572">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
